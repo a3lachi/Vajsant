@@ -3,7 +3,7 @@
 A plugin for Fastify to use Vagrant framework. 
 
 
-<br><br>
+<br>
 <h2>Core features</h2>
 
 So far it includes 
